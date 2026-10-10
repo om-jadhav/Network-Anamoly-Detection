@@ -1,0 +1,47 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Jupyter Notebook files (if used later)
+.ipynb_checkpoints/
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Generated model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Generated plots and reports
+outputs/
+reports/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Downloaded datasets
+data/

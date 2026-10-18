@@ -133,9 +133,9 @@ python analyze_data.py
 - [x] Initial dataset inspection
 - [x] Label distribution analysis
 - [x] Identification of missing and infinite values
-- [ ] Data preprocessing and cleaning
-- [ ] Exploratory data visualization
-- [ ] Machine learning model development
+- [x] Data preprocessing and cleaning
+- [x] Exploratory data visualization
+- [x] Machine learning model development
 - [ ] Model evaluation and performance comparison
 - [ ] Anomaly detection results and reporting
 
